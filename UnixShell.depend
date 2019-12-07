@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1571101581 source:/home/mohamad/CodeBlocks/UnixShell/UnixShell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1571248496 source:/home/mohamad/CodeBlocks/UnixShell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/wait.h>
+	<sys/types.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+
